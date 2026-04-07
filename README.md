@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Marc López Banner" width="100%" />
+  <img src="banner.png" alt="Marc López Banner"/>
 </p>
 # I'm Marc a Software Developer
 
