@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%"/>
+</p>
+
 # Hey, I'm Marc!
 
 I'm a Full-Stack Developer from Barcelona, Spain
