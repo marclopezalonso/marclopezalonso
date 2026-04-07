@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Marc López Banner"/>
-</p>
 # I'm Marc a Software Developer
 
 
