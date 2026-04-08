@@ -18,7 +18,7 @@ Focused on building modern web applications with clean architecture, scalable ba
 ## 📫 Connect with Me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marclopezalonso)
-[![gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marclopezalonso@gmail.com)
+[![gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marclopez0990@gmail.com)
 
 ## 🛠 Tech Stack
 
