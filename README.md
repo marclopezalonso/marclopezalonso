@@ -4,7 +4,7 @@
 
 # Hey, I'm Marc! 👋
 
-Full-Stack Developer based in Barcelona, Spain 🇪🇸  
+Full-Stack Developer based in Barcelona, Spain
 Focused on building modern web applications with clean architecture, scalable backend systems, and great user experience.
 
 ## 👨‍💻 About Me
