@@ -4,12 +4,15 @@
 
 # Hey, I'm Marc! 👋
 
-Full-Stack Developer based in Barcelona, Spain
-Focused on building modern web applications with clean architecture, scalable backend systems, and great user experience.
+**Full-Stack Developer | Data Analyst**  
+Based in Barcelona, Spain  
+
+Passionate about building modern web applications with clean architecture, scalable backend systems, and delivering great user experiences.
 
 ## 👨‍💻 About Me
 
 - 💼 Full-Stack Developer passionate about building modern web applications
+- 📊 Skilled in Python, Pandas, Power BI, and data visualization.
 - 🧠 Interested in backend development, clean architecture, and scalable systems
 - 🚀 Always learning and improving my skills through personal and real-world projects
 - 🌍 Based in Barcelona, Spain
@@ -31,6 +34,12 @@ Focused on building modern web applications with clean architecture, scalable ba
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
