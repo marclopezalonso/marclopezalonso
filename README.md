@@ -2,10 +2,23 @@
   <img src="banner.png" alt="Banner" width="100%"/>
 </p>
 
-# Hey, I'm Marc!
+# Hey, I'm Marc! 👋
 
 Full-Stack Developer based in Barcelona, Spain 🇪🇸  
 Focused on building modern web applications with clean architecture, scalable backend systems, and great user experience.
+
+## 👨‍💻 About Me
+
+- 💼 Full-Stack Developer passionate about building modern web applications
+- 🧠 Interested in backend development, clean architecture, and scalable systems
+- 🚀 Always learning and improving my skills through personal and real-world projects
+- 🌍 Based in Barcelona, Spain
+- 📫 Open to new opportunities and collaborations
+
+## 📫 Connect with Me
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marclopezalonso)
+[![gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marclopezalonso@gmail.com)
 
 ## 🛠 Tech Stack
 
@@ -28,12 +41,6 @@ Focused on building modern web applications with clean architecture, scalable ba
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📫 Connect with Me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marclopezalonso)
-[![gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marclopezalonso@gmail.com)
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marclopezalonso&theme=merko)](https://git.io/streak-stats)
-
-
