@@ -5,7 +5,6 @@
 # Hey, I'm Marc! 👋
 
 **Full-Stack Developer | Data Analyst**  
-Based in Barcelona, Spain  
 
 Passionate about building modern web applications with clean architecture, scalable backend systems, and delivering great user experiences.
 
