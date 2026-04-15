@@ -47,12 +47,7 @@ Passionate about building modern web applications with clean architecture, scala
 ### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-087CFA.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-9B00D7.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FF007F.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-00B374.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FE2857.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 
 ## 📊 GitHub Stats
 
